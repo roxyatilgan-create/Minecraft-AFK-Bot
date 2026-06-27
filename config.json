@@ -1,8 +1,8 @@
 {
   "serverHost": "DONUTSMPTURKYE.aternos.me",
   "serverPort": 41216,
-  "botUsername": "Donutsmptr2Bot",
-  "botChunk": 1,
+  "botUsername": "Donutsmptr9Bot",
+  "botChunk": 0,
   "autoReconnect": true,
-  "reconnectDelay": 5000
+  "reconnectDelay": 10000
 }
